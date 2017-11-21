@@ -41,6 +41,7 @@ public class PuzzleJava {
             System.out.println(name);
             if (name.length() > 5){
                 bigNames.add(name);
+                counter++;
             }
         }
         // returning ArrayList of names
