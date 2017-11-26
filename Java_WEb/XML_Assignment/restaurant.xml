@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <breakfastMenu>
+        <item category="entree">
+            <name>Breakfast Slam</name>
+            <description>Denny's all new Breakfast Slam, start your day off slow</description>
+            <price>8.99</price>
+        </item>
+        <item category="entree">
+            <name>French Toast Slam</name>
+            <description>Denny's all new French Toast Slam, with more French!</description>
+            <price>9.99</price>
+        </item>
+        <item category="entree">
+            <name>Quadruple Stack Slam</name>
+            <description>Denny's all new Quadruple Stack Slam, now with extra butter!</description>
+            <price>9.99</price>
+        </item>
+    </breakfastMenu>
+    <lunchMenu>
+        <item category="entree">
+            <name>Monte Cristo Sandwich</name>
+            <description>In case you missed french toast for breakfast, get it now, deep fried with ham!</description>
+            <price>10.99</price>
+        </item>
+        <item category="entree">
+            <name>Cobb Salad</name>
+            <description>Complete with bacon, bacon bits, and bacon bacon bacon dressing!</description>
+            <price>10.99</price>
+        </item>
+        <item category="entree">
+            <name>Patty Melt</name>
+            <description>Grade D Cube steak, cheese, bread, All melted together.</description>
+            <price>9.99</price>
+        </item>
+    </lunchMenu>
+    <dinnerMenu>
+        <item category="entree">
+            <name>Monte Cristo Sandwich</name>
+            <description>In case you missed french toast for breakfast or lunch, get it now, deep fried with ham! Dinner option comes with fries!</description>
+            <price>11.99</price>
+        </item>
+        <item category="entree">
+            <name>Cobb Salad</name>
+            <description>Complete with bacon, bacon bits, and bacon bacon bacon dressing! Side of fries!</description>
+            <price>11.99</price>
+        </item>
+        <item category="entree">
+            <name>Patty Melt</name>
+            <description>Grade C Cube steak, cheese, bread, All melted together.</description>
+            <price>10.99</price>
+        </item>
+    </dinnerMenu>
+</menu>
